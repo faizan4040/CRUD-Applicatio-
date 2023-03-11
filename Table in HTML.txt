@@ -1,5 +1,6 @@
 // Create a Table using HTML and ejs
 //EJS is Embedded Javascript Templarion
+// file name is index.html
 
 <!DOCTYPE html>
 <html lang="en">
