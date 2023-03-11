@@ -1,3 +1,7 @@
+// Form using html file with ejs
+// file name is add_user.html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head> 
